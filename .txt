@@ -1,0 +1,7 @@
+Project Overview: Developed a YouTube-like video platform using React for the frontend
+
+Features: Implemented a search function, video playing, and browsing through a sidebar for a better user experience.
+
+APIs: Used third-party APIs to fetch video data and display it dynamically.
+
+Frontend Only: The focus was on frontend development, without the use of backend technologies like MongoDB or Express.js.
